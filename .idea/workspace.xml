@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d5aae83-706b-4d67-b1a6-0681de33c379" name="默认的" comment="None" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2bNewQOVlo81NG6knDbewadgwGD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Code\python\gxnzd_jwxt_operation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gxnzd_jwxt_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operation" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gxnzd_jwxt_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Program Code\python\gxnzd_jwxt_operation\operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gxnzd_jwxt_operation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.operation" />
+        <item itemvalue="Python.operation (1)" />
+        <item itemvalue="Python.operation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d5aae83-706b-4d67-b1a6-0681de33c379" name="默认的" comment="" />
+      <created>1706060201312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706060201312</updated>
+    </task>
+    <task id="LOCAL-00001" summary="None">
+      <created>1706324182453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706324182453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="None" />
+    <option name="LAST_COMMIT_MESSAGE" value="None" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="688" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1706255596590">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="688" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.912@0.0.1707.912" timestamp="1706255596590" />
+    <state x="584" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1706268785327">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="584" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.912@0.0.1707.912" timestamp="1706268785327" />
+    <state x="634" y="212" key="FileChooserDialogImpl" timestamp="1706255357980">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="634" y="212" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1706255357980" />
+    <state x="718" y="354" key="Github.ShareDialog" timestamp="1706144821661">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="718" y="354" key="Github.ShareDialog/0.0.1707.912@0.0.1707.912" timestamp="1706144821661" />
+    <state width="1685" height="235" key="GridCell.Tab.0.bottom" timestamp="1706324242862">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1685" height="235" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1706324242862" />
+    <state width="1685" height="235" key="GridCell.Tab.0.center" timestamp="1706324242862">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1685" height="235" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1706324242862" />
+    <state width="1685" height="235" key="GridCell.Tab.0.left" timestamp="1706324242862">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1685" height="235" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1706324242862" />
+    <state width="1685" height="235" key="GridCell.Tab.0.right" timestamp="1706324242862">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1685" height="235" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1706324242862" />
+    <state width="1685" height="297" key="GridCell.Tab.1.bottom" timestamp="1706273886576">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1685" height="297" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1706273886576" />
+    <state width="1685" height="297" key="GridCell.Tab.1.center" timestamp="1706273886576">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1685" height="297" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1706273886576" />
+    <state width="1685" height="297" key="GridCell.Tab.1.left" timestamp="1706273886576">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1685" height="297" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1706273886576" />
+    <state width="1685" height="297" key="GridCell.Tab.1.right" timestamp="1706273886576">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1685" height="297" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1706273886576" />
+    <state x="355" y="101" key="SettingsEditor" timestamp="1706191328887">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="355" y="101" key="SettingsEditor/0.0.1707.912@0.0.1707.912" timestamp="1706191328887" />
+    <state x="446" y="190" key="Vcs.Push.Dialog.v2" timestamp="1706324200602">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="446" y="190" key="Vcs.Push.Dialog.v2/0.0.1707.912@0.0.1707.912" timestamp="1706324200602" />
+    <state x="93" y="93" width="1521" height="727" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1706191451784">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="93" y="93" width="1521" height="727" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1707.912@0.0.1707.912" timestamp="1706191451784" />
+    <state x="668" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1706324169683">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="668" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.912@0.0.1707.912" timestamp="1706324169683" />
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1706270149776">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912@0.0.1707.912" timestamp="1706270149776" />
+  </component>
+</project>
