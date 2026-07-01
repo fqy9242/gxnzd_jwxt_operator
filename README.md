@@ -8,6 +8,14 @@
 - cookies登录
 - 成绩查询，并推送QQ邮箱、公众号等 自己配置。
 
+配置文件使用 `.env`，可参考 `.env.example`：
+
+```env
+JWXT_USERNAME="your_student_id"
+JWXT_PASSWORD="your_password"
+JWXT_COOKIES=""
+```
+
 其他自行发挥 登录上了api随便调
 
 **main.exe**文件为打包成可执行程序文件，直接运行即可，是本人自用测试。
